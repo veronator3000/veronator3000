@@ -1,7 +1,6 @@
 ### 👋
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+<!--START_SECTION:waka--> 
 
 ```text
 💬 Programming Languages: 
