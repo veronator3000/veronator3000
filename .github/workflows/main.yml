@@ -18,6 +18,9 @@ jobs:
           UPDATED_DATE_FORMAT: false;
           SHOW_UPDATED_DATE: false;
           COMMIT_EMAIL: false;
+          SHOW_LANGUAGE: true;
+          SHOW_OS: true;
+          SHOW_EDITORS: true;
           COMMIT_USERNAME: false;
           COMMIT_MESSAGE: false;
           COMMIT_BY_ME: false;
