@@ -1,6 +1,7 @@
 ### 👋
 
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -20,5 +21,5 @@ Linux                    11 hrs 37 mins      ███████████�
 ```
 
 
- Last Updated on 20/02/2024 21:32:17 UTC
+ Last Updated on 21/02/2024 18:38:12 UTC
 <!--END_SECTION:waka-->
