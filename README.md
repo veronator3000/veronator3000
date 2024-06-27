@@ -4,17 +4,15 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 mins              ███████████████████████░░   92.08 % 
-GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/06/2024 17:35:58 UTC
+ Last Updated on 27/06/2024 17:36:57 UTC
 <!--END_SECTION:waka-->
