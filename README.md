@@ -4,15 +4,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ██████████████░░░░░░░░░░░   56.21 % 
+C#                       0 secs              ███████████░░░░░░░░░░░░░░   43.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/01/2025 17:38:11 UTC
+ Last Updated on 11/01/2025 17:36:21 UTC
 <!--END_SECTION:waka-->
